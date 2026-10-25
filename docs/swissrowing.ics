@@ -1,0 +1,360 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swissrowing-ics//Swiss Rowing Eventkalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swiss Rowing Eventkalender
+X-WR-TIMEZONE:Europe/Zurich
+BEGIN:VEVENT
+UID:piste-test-days-2026-ticino@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:PISTE Test-Days 2026 (Ticino)
+LOCATION:Locarno
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/piste-test-days-2026-ticino
+URL:https://www.swissrowing.ch/de/event/piste-test-days-2026-ticino
+END:VEVENT
+BEGIN:VEVENT
+UID:ergometertest-swiss-rowing-2000m-max-3@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Ergometertest SWISS ROWING (2000m\, max.)
+LOCATION:Sarnen
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/ergometertest-swiss-rowing-2000m-max-3
+URL:https://www.swissrowing.ch/de/event/ergometertest-swiss-rowing-2000m-ma
+ x-3
+END:VEVENT
+BEGIN:VEVENT
+UID:swiss-rowing-trainertagung@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:SWISS ROWING Trainertagung
+LOCATION:Luzern
+DESCRIPTION:Kategorie: Ausbildung\nVeranstalter: SWISS ROWING\nhttps://www.
+ swissrowing.ch/de/event/swiss-rowing-trainertagung
+URL:https://www.swissrowing.ch/de/event/swiss-rowing-trainertagung
+END:VEVENT
+BEGIN:VEVENT
+UID:youth-olympic-summer-games-yog-beach-sprint-rowing@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261103
+SUMMARY:Youth Olympic Summer Games (YOG) (Beach Sprint Rowing)
+LOCATION:Dakar (SEN)
+DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
+ //www.swissrowing.ch/de/event/youth-olympic-summer-games-yog-beach-sprint-
+ rowing
+URL:https://www.swissrowing.ch/de/event/youth-olympic-summer-games-yog-beac
+ h-sprint-rowing
+END:VEVENT
+BEGIN:VEVENT
+UID:1-swiss-rowing-langstreckentest-2@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:1. SWISS ROWING Langstreckentest
+LOCATION:Mulhouse (F)
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/1-swiss-rowing-langstreckentest-2
+URL:https://www.swissrowing.ch/de/event/1-swiss-rowing-langstreckentest-2
+END:VEVENT
+BEGIN:VEVENT
+UID:piste-test-days-2026@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:PISTE Test-Days 2026
+LOCATION:Sarnen
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/piste-test-days-2026
+URL:https://www.swissrowing.ch/de/event/piste-test-days-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:piste-test-day-2026-romandie@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:PISTE Test-Day 2026 (Romandie)
+LOCATION:Lausanne
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/piste-test-day-2026-romandie
+URL:https://www.swissrowing.ch/de/event/piste-test-day-2026-romandie
+END:VEVENT
+BEGIN:VEVENT
+UID:baselhead-regatta@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:BaselHead Regatta
+LOCATION:Basel
+DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Trinationaler R
+ egattaverein Basel\nhttps://www.swissrowing.ch/de/event/baselhead-regatta
+URL:https://www.swissrowing.ch/de/event/baselhead-regatta
+END:VEVENT
+BEGIN:VEVENT
+UID:delegiertenversammlung-swiss-rowing-3@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Delegiertenversammlung SWISS ROWING
+LOCATION:Ägeri
+DESCRIPTION:Kategorie: Delegiertenversammlung\nVeranstalter: SWISS ROWING\n
+ https://www.swissrowing.ch/de/event/delegiertenversammlung-swiss-rowing-3
+URL:https://www.swissrowing.ch/de/event/delegiertenversammlung-swiss-rowing
+ -3
+END:VEVENT
+BEGIN:VEVENT
+UID:verleihung-aequatorband-der-dv-0@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Verleihung Äquatorband (an der DV)
+LOCATION:Ägeri
+DESCRIPTION:Kategorie: Breitensport\nVeranstalter: SWISS ROWING\nhttps://ww
+ w.swissrowing.ch/de/event/verleihung-aequatorband-der-dv-0
+URL:https://www.swissrowing.ch/de/event/verleihung-aequatorband-der-dv-0
+END:VEVENT
+BEGIN:VEVENT
+UID:ergometertest-swiss-rowing-2000m-max-4@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Ergometertest SWISS ROWING (2000m\, max.)
+LOCATION:dezentral
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/ergometertest-swiss-rowing-2000m-max-4
+URL:https://www.swissrowing.ch/de/event/ergometertest-swiss-rowing-2000m-ma
+ x-4
+END:VEVENT
+BEGIN:VEVENT
+UID:achterrennen-langstreckech-7@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Achterrennen langstrecke.ch
+LOCATION:Ellikon-Eglisau
+DESCRIPTION:Kategorie: Breitensport\nVeranstalter: Website\nhttps://www.swi
+ ssrowing.ch/de/event/achterrennen-langstreckech-7
+URL:https://www.swissrowing.ch/de/event/achterrennen-langstreckech-7
+END:VEVENT
+BEGIN:VEVENT
+UID:2-swiss-rowing-langstreckentest-3@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:2. SWISS ROWING Langstreckentest
+LOCATION:Mulhouse (F)
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/2-swiss-rowing-langstreckentest-3
+URL:https://www.swissrowing.ch/de/event/2-swiss-rowing-langstreckentest-3
+END:VEVENT
+BEGIN:VEVENT
+UID:praesenztage-lehrgang-clubmanagement-1@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:Präsenztage "Lehrgang Clubmanagement"
+LOCATION:Sarnen
+DESCRIPTION:Kategorie: Ausbildung\nVeranstalter: SWISS ROWING\nhttps://www.
+ swissrowing.ch/de/event/praesenztage-lehrgang-clubmanagement-1
+URL:https://www.swissrowing.ch/de/event/praesenztage-lehrgang-clubmanagemen
+ t-1
+END:VEVENT
+BEGIN:VEVENT
+UID:bootswartekurs-ausgebucht-warteliste-wird-gefuehrt-0@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:Bootswartekurs (AUSGEBUCHT: Warteliste wird geführt)
+LOCATION:Zürich
+DESCRIPTION:Kategorie: Ausbildung\nVeranstalter: swissrowing\nhttps://www.s
+ wissrowing.ch/de/event/bootswartekurs-ausgebucht-warteliste-wird-gefuehrt-
+ 0
+URL:https://www.swissrowing.ch/de/event/bootswartekurs-ausgebucht-wartelist
+ e-wird-gefuehrt-0
+END:VEVENT
+BEGIN:VEVENT
+UID:swiss-rowing-indoors-7@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Swiss Rowing Indoors
+LOCATION:Zug
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: SWISS ROWING / See-C
+ lub Zug\nhttps://www.swissrowing.ch/de/event/swiss-rowing-indoors-7
+URL:https://www.swissrowing.ch/de/event/swiss-rowing-indoors-7
+END:VEVENT
+BEGIN:VEVENT
+UID:3-swiss-rowing-langstreckentest-3@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:3. SWISS ROWING Langstreckentest
+LOCATION:Mulhouse (F)
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/3-swiss-rowing-langstreckentest-3
+URL:https://www.swissrowing.ch/de/event/3-swiss-rowing-langstreckentest-3
+END:VEVENT
+BEGIN:VEVENT
+UID:swiss-rowing-time-trial-kleinboote-eliteu23u19-nur-auf-einladung@swissr
+ owing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:SWISS ROWING Time Trial Kleinboote (Elite/U23/U19): (nur auf Einlad
+ ung)
+LOCATION:Mulhouse (F)
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/swiss-rowing-time-trial-kleinboote-eliteu23u19-nur-auf-
+ einladung
+URL:https://www.swissrowing.ch/de/event/swiss-rowing-time-trial-kleinboote-
+ eliteu23u19-nur-auf-einladung
+END:VEVENT
+BEGIN:VEVENT
+UID:swiss-rowing-elite-trials-nur-auf-einladung-2@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270412
+SUMMARY:SWISS ROWING Elite Trials: (nur auf Einladung)
+LOCATION:Corgeno (I)
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/swiss-rowing-elite-trials-nur-auf-einladung-2
+URL:https://www.swissrowing.ch/de/event/swiss-rowing-elite-trials-nur-auf-e
+ inladung-2
+END:VEVENT
+BEGIN:VEVENT
+UID:swiss-rowing-trials-u19-nur-auf-einladung@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+SUMMARY:SWISS ROWING Trials (U19): (nur auf Einladung)
+LOCATION:Corgeno (I)
+DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
+ rowing.ch/de/event/swiss-rowing-trials-u19-nur-auf-einladung
+URL:https://www.swissrowing.ch/de/event/swiss-rowing-trials-u19-nur-auf-ein
+ ladung
+END:VEVENT
+BEGIN:VEVENT
+UID:nationale-regatta-lake-lugano-rowing-3@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+SUMMARY:Nationale Regatta "Lake Lugano Rowing"
+LOCATION:Lugano-Melano
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: LuganoRowingEvents\n
+ https://www.swissrowing.ch/de/event/nationale-regatta-lake-lugano-rowing-3
+URL:https://www.swissrowing.ch/de/event/nationale-regatta-lake-lugano-rowin
+ g-3
+END:VEVENT
+BEGIN:VEVENT
+UID:nationale-ruderregatta-lauerzersee-1@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+SUMMARY:Nationale Ruderregatta Lauerzersee
+LOCATION:Lauerzersee
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: Regatta Lauerz\nhttp
+ s://www.swissrowing.ch/de/event/nationale-ruderregatta-lauerzersee-1
+URL:https://www.swissrowing.ch/de/event/nationale-ruderregatta-lauerzersee-
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:nationale-ruderregatta-schmerikon-1@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+SUMMARY:Nationale Ruderregatta Schmerikon
+LOCATION:Schmerikon
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: Ruderverband Oberer 
+ Zürichsee\nhttps://www.swissrowing.ch/de/event/nationale-ruderregatta-sch
+ merikon-1
+URL:https://www.swissrowing.ch/de/event/nationale-ruderregatta-schmerikon-1
+END:VEVENT
+BEGIN:VEVENT
+UID:nationale-regatta-cham-7@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+SUMMARY:Nationale Regatta Cham
+LOCATION:Cham
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: Ruderclub Cham\nhttp
+ s://www.swissrowing.ch/de/event/nationale-regatta-cham-7
+URL:https://www.swissrowing.ch/de/event/nationale-regatta-cham-7
+END:VEVENT
+BEGIN:VEVENT
+UID:nationale-regatta-sarnersee-4@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+SUMMARY:Nationale Regatta Sarnersee
+LOCATION:Sarnen
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: Seeclub Stansstad un
+ d Ruderclub Sarnen\nhttps://www.swissrowing.ch/de/event/nationale-regatta-
+ sarnersee-4
+URL:https://www.swissrowing.ch/de/event/nationale-regatta-sarnersee-4
+END:VEVENT
+BEGIN:VEVENT
+UID:selektionstage-coupe-de-la-jeunesse-swiss-rowing-0@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270614
+SUMMARY:Selektionstage (Coupe de la Jeunesse SWISS ROWING)
+LOCATION:Luzern-Rotsee
+DESCRIPTION:Kategorie: Tests\nVeranstalter: Website\nhttps://www.swissrowin
+ g.ch/de/event/selektionstage-coupe-de-la-jeunesse-swiss-rowing-0
+URL:https://www.swissrowing.ch/de/event/selektionstage-coupe-de-la-jeunesse
+ -swiss-rowing-0
+END:VEVENT
+BEGIN:VEVENT
+UID:nationale-regatta-greifensee-6@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270621
+SUMMARY:Nationale Regatta Greifensee
+LOCATION:Greifensee
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: Zürcher Regattavere
+ in\nhttps://www.swissrowing.ch/de/event/nationale-regatta-greifensee-6
+URL:https://www.swissrowing.ch/de/event/nationale-regatta-greifensee-6
+END:VEVENT
+BEGIN:VEVENT
+UID:schweizer-meisterschaften-championnats-suisses-2@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270705
+SUMMARY:Schweizer Meisterschaften - Championnats Suisses
+LOCATION:Rotsee-Luzern
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: SWISS ROWING\nhttps:
+ //www.swissrowing.ch/de/event/schweizer-meisterschaften-championnats-suiss
+ es-2
+URL:https://www.swissrowing.ch/de/event/schweizer-meisterschaften-championn
+ ats-suisses-2
+END:VEVENT
+BEGIN:VEVENT
+UID:fisu-world-university-championships-2@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270813
+SUMMARY:FISU World University Championships
+LOCATION:Chungcheong (Korea)
+DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
+ //www.swissrowing.ch/de/event/fisu-world-university-championships-2
+URL:https://www.swissrowing.ch/de/event/fisu-world-university-championships
+ -2
+END:VEVENT
+BEGIN:VEVENT
+UID:weltmeisterschaften-5@swissrowing-ics
+DTSTAMP:20261025T161021Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270830
+SUMMARY:Weltmeisterschaften
+LOCATION:Luzern-Rotsee
+DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
+ //www.swissrowing.ch/de/event/weltmeisterschaften-5
+URL:https://www.swissrowing.ch/de/event/weltmeisterschaften-5
+END:VEVENT
+END:VCALENDAR
