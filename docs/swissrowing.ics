@@ -6,19 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Swiss Rowing Eventkalender
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-UID:piste-test-days-2026@swissrowing-ics
-DTSTAMP:20261101T111921Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-SUMMARY:PISTE Test-Days 2026
-LOCATION:Sarnen
-DESCRIPTION:Kategorie: Tests\nVeranstalter: SWISS ROWING\nhttps://www.swiss
- rowing.ch/de/event/piste-test-days-2026
-URL:https://www.swissrowing.ch/de/event/piste-test-days-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:piste-test-day-2026-romandie@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:PISTE Test-Day 2026 (Romandie)
@@ -29,7 +18,7 @@ URL:https://www.swissrowing.ch/de/event/piste-test-day-2026-romandie
 END:VEVENT
 BEGIN:VEVENT
 UID:baselhead-regatta@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:BaselHead Regatta
@@ -40,7 +29,7 @@ URL:https://www.swissrowing.ch/de/event/baselhead-regatta
 END:VEVENT
 BEGIN:VEVENT
 UID:delegiertenversammlung-swiss-rowing-3@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Delegiertenversammlung SWISS ROWING
@@ -52,7 +41,7 @@ URL:https://www.swissrowing.ch/de/event/delegiertenversammlung-swiss-rowing
 END:VEVENT
 BEGIN:VEVENT
 UID:verleihung-aequatorband-der-dv-0@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Verleihung Äquatorband (an der DV)
@@ -63,7 +52,7 @@ URL:https://www.swissrowing.ch/de/event/verleihung-aequatorband-der-dv-0
 END:VEVENT
 BEGIN:VEVENT
 UID:ergometertest-swiss-rowing-2000m-max-4@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Ergometertest SWISS ROWING (2000m\, max.)
@@ -75,7 +64,7 @@ URL:https://www.swissrowing.ch/de/event/ergometertest-swiss-rowing-2000m-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:achterrennen-langstreckech-7@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Achterrennen langstrecke.ch
@@ -86,7 +75,7 @@ URL:https://www.swissrowing.ch/de/event/achterrennen-langstreckech-7
 END:VEVENT
 BEGIN:VEVENT
 UID:2-swiss-rowing-langstreckentest-3@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:2. SWISS ROWING Langstreckentest
@@ -97,7 +86,7 @@ URL:https://www.swissrowing.ch/de/event/2-swiss-rowing-langstreckentest-3
 END:VEVENT
 BEGIN:VEVENT
 UID:praesenztage-lehrgang-clubmanagement-1@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:Präsenztage "Lehrgang Clubmanagement"
@@ -109,7 +98,7 @@ URL:https://www.swissrowing.ch/de/event/praesenztage-lehrgang-clubmanagemen
 END:VEVENT
 BEGIN:VEVENT
 UID:bootswartekurs-ausgebucht-warteliste-wird-gefuehrt-0@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
 SUMMARY:Bootswartekurs (AUSGEBUCHT: Warteliste wird geführt)
@@ -122,7 +111,7 @@ URL:https://www.swissrowing.ch/de/event/bootswartekurs-ausgebucht-wartelist
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-indoors-7@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Swiss Rowing Indoors
@@ -133,7 +122,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-indoors-7
 END:VEVENT
 BEGIN:VEVENT
 UID:3-swiss-rowing-langstreckentest-3@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:3. SWISS ROWING Langstreckentest
@@ -145,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-time-trial-kleinboote-eliteu23u19-nur-auf-einladung@swissr
  owing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:SWISS ROWING Time Trial Kleinboote (Elite/U23/U19): (nur auf Einlad
@@ -159,7 +148,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-time-trial-kleinboote-
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-elite-trials-nur-auf-einladung-2@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270412
 SUMMARY:SWISS ROWING Elite Trials: (nur auf Einladung)
@@ -171,7 +160,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-elite-trials-nur-auf-e
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-trials-u19-nur-auf-einladung@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270412
 SUMMARY:SWISS ROWING Trials (U19): (nur auf Einladung)
@@ -183,7 +172,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-trials-u19-nur-auf-ein
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-regatta-lake-lugano-rowing-3@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270412
 SUMMARY:Nationale Regatta "Lake Lugano Rowing"
@@ -195,7 +184,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-regatta-lake-lugano-rowin
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-ruderregatta-lauerzersee-1@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:Nationale Ruderregatta Lauerzersee
@@ -207,7 +196,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-ruderregatta-lauerzersee-
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-ruderregatta-schmerikon-1@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270510
 SUMMARY:Nationale Ruderregatta Schmerikon
@@ -219,7 +208,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-ruderregatta-schmerikon-1
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-regatta-cham-7@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270524
 SUMMARY:Nationale Regatta Cham
@@ -230,7 +219,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-regatta-cham-7
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-regatta-sarnersee-4@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270607
 SUMMARY:Nationale Regatta Sarnersee
@@ -242,7 +231,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-regatta-sarnersee-4
 END:VEVENT
 BEGIN:VEVENT
 UID:selektionstage-coupe-de-la-jeunesse-swiss-rowing-0@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270614
 SUMMARY:Selektionstage (Coupe de la Jeunesse SWISS ROWING)
@@ -254,7 +243,7 @@ URL:https://www.swissrowing.ch/de/event/selektionstage-coupe-de-la-jeunesse
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-regatta-greifensee-6@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270621
 SUMMARY:Nationale Regatta Greifensee
@@ -265,7 +254,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-regatta-greifensee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:schweizer-meisterschaften-championnats-suisses-2@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:Schweizer Meisterschaften - Championnats Suisses
@@ -278,7 +267,7 @@ URL:https://www.swissrowing.ch/de/event/schweizer-meisterschaften-championn
 END:VEVENT
 BEGIN:VEVENT
 UID:fisu-world-university-championships-2@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270813
 SUMMARY:FISU World University Championships
@@ -290,7 +279,7 @@ URL:https://www.swissrowing.ch/de/event/fisu-world-university-championships
 END:VEVENT
 BEGIN:VEVENT
 UID:weltmeisterschaften-5@swissrowing-ics
-DTSTAMP:20261101T111921Z
+DTSTAMP:20261108T111958Z
 DTSTART;VALUE=DATE:20270823
 DTEND;VALUE=DATE:20270830
 SUMMARY:Weltmeisterschaften
