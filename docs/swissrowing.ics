@@ -7,7 +7,7 @@ X-WR-CALNAME:Swiss Rowing Eventkalender
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
 UID:ergometertest-swiss-rowing-2000m-max-4@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Ergometertest SWISS ROWING (2000m\, max.)
@@ -19,7 +19,7 @@ URL:https://www.swissrowing.ch/de/event/ergometertest-swiss-rowing-2000m-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:verleihung-aequatorband-der-dv-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Verleihung Äquatorband (an der DV)
@@ -30,7 +30,7 @@ URL:https://www.swissrowing.ch/de/event/verleihung-aequatorband-der-dv-0
 END:VEVENT
 BEGIN:VEVENT
 UID:delegiertenversammlung-swiss-rowing-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Delegiertenversammlung SWISS ROWING
@@ -42,7 +42,7 @@ URL:https://www.swissrowing.ch/de/event/delegiertenversammlung-swiss-rowing
 END:VEVENT
 BEGIN:VEVENT
 UID:achterrennen-langstreckech-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Achterrennen langstrecke.ch
@@ -53,7 +53,7 @@ URL:https://www.swissrowing.ch/de/event/achterrennen-langstreckech-7
 END:VEVENT
 BEGIN:VEVENT
 UID:championnats-romands-dergometre-6@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Championnats Romands d'ergomètre
@@ -64,7 +64,7 @@ URL:https://www.swissrowing.ch/de/event/championnats-romands-dergometre-6
 END:VEVENT
 BEGIN:VEVENT
 UID:ergometertest-swiss-rowing-2000m-max-5@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Ergometertest SWISS ROWING (2000m\, max.)
@@ -76,7 +76,7 @@ URL:https://www.swissrowing.ch/de/event/ergometertest-swiss-rowing-2000m-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:european-rowing-indoor-championships-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270125
 SUMMARY:European Rowing Indoor Championships
@@ -88,7 +88,7 @@ URL:https://www.swissrowing.ch/de/event/european-rowing-indoor-championship
 END:VEVENT
 BEGIN:VEVENT
 UID:2-swiss-rowing-langstreckentest-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:2. SWISS ROWING Langstreckentest
@@ -99,7 +99,7 @@ URL:https://www.swissrowing.ch/de/event/2-swiss-rowing-langstreckentest-3
 END:VEVENT
 BEGIN:VEVENT
 UID:praesenztage-lehrgang-clubmanagement-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:Präsenztage "Lehrgang Clubmanagement"
@@ -111,7 +111,7 @@ URL:https://www.swissrowing.ch/de/event/praesenztage-lehrgang-clubmanagemen
 END:VEVENT
 BEGIN:VEVENT
 UID:campionati-ticinesi-di-ergometro-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Campionati Ticinesi di ergometro
@@ -123,7 +123,7 @@ URL:https://www.swissrowing.ch/de/event/campionati-ticinesi-di-ergometro-1
 END:VEVENT
 BEGIN:VEVENT
 UID:bootswartekurs-ausgebucht-warteliste-wird-gefuehrt-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
 SUMMARY:Bootswartekurs (AUSGEBUCHT: Warteliste wird geführt)
@@ -136,7 +136,7 @@ URL:https://www.swissrowing.ch/de/event/bootswartekurs-ausgebucht-wartelist
 END:VEVENT
 BEGIN:VEVENT
 UID:world-rowing-indoor-championships-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270228
 SUMMARY:World Rowing Indoor Championships
@@ -147,7 +147,7 @@ URL:https://www.swissrowing.ch/de/event/world-rowing-indoor-championships-7
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-indoors-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Swiss Rowing Indoors
@@ -158,7 +158,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-indoors-7
 END:VEVENT
 BEGIN:VEVENT
 UID:filippi-beach-sprint-regatta-nr-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270315
 SUMMARY:Filippi Beach Sprint Regatta Nr. 1
@@ -169,7 +169,7 @@ URL:https://www.swissrowing.ch/de/event/filippi-beach-sprint-regatta-nr-1
 END:VEVENT
 BEGIN:VEVENT
 UID:achterrennen-thalwil-6@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Achterrennen Thalwil
@@ -180,7 +180,7 @@ URL:https://www.swissrowing.ch/de/event/achterrennen-thalwil-6
 END:VEVENT
 BEGIN:VEVENT
 UID:3-swiss-rowing-langstreckentest-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:3. SWISS ROWING Langstreckentest
@@ -192,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-time-trial-kleinboote-eliteu23u19-nur-auf-einladung@swissr
  owing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:SWISS ROWING Time Trial Kleinboote (Elite/U23/U19): (nur auf Einlad
@@ -206,7 +206,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-time-trial-kleinboote-
 END:VEVENT
 BEGIN:VEVENT
 UID:world-rowing-antalya-beach-sprints@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270329
 SUMMARY:World Rowing Antalya Beach Sprints
@@ -217,7 +217,7 @@ URL:https://www.swissrowing.ch/de/event/world-rowing-antalya-beach-sprints
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-trials-nur-auf-einladung@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270412
 SUMMARY:SWISS ROWING Trials: (nur auf Einladung)
@@ -229,7 +229,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-trials-nur-auf-einladu
 END:VEVENT
 BEGIN:VEVENT
 UID:filippi-beach-sprint-regatta-nr-2@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270412
 SUMMARY:Filippi Beach Sprint Regatta Nr. 2
@@ -240,7 +240,7 @@ URL:https://www.swissrowing.ch/de/event/filippi-beach-sprint-regatta-nr-2
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-regatta-lake-lugano-rowing-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270412
 SUMMARY:Nationale Regatta "Lake Lugano Rowing"
@@ -252,7 +252,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-regatta-lake-lugano-rowin
 END:VEVENT
 BEGIN:VEVENT
 UID:world-rowing-china-beach-sprints@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270416
 SUMMARY:World Rowing China Beach Sprints
@@ -263,7 +263,7 @@ URL:https://www.swissrowing.ch/de/event/world-rowing-china-beach-sprints
 END:VEVENT
 BEGIN:VEVENT
 UID:internationale-ruderregatta-memorial-paolo-daloja-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270426
 SUMMARY:Internationale Ruderregatta "Memorial Paolo d'Aloja"
@@ -276,7 +276,7 @@ URL:https://www.swissrowing.ch/de/event/internationale-ruderregatta-memoria
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-ruderregatta-lauerzersee-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270426
 SUMMARY:Nationale Ruderregatta Lauerzersee
@@ -288,7 +288,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-ruderregatta-lauerzersee-
 END:VEVENT
 BEGIN:VEVENT
 UID:lakeside-opening-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270503
 SUMMARY:Lakeside Opening
@@ -299,7 +299,7 @@ URL:https://www.swissrowing.ch/de/event/lakeside-opening-0
 END:VEVENT
 BEGIN:VEVENT
 UID:internationale-para-rowing-regatta-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270503
 SUMMARY:Internationale Para-Rowing-Regatta
@@ -310,19 +310,8 @@ URL:https://www.swissrowing.ch/de/event/internationale-para-rowing-regatta-
  0
 END:VEVENT
 BEGIN:VEVENT
-UID:internationale-may-regatta-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270510
-SUMMARY:Internationale May Regatta
-LOCATION:Gent (BEL)
-DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
- //www.swissrowing.ch/de/event/internationale-may-regatta-1
-URL:https://www.swissrowing.ch/de/event/internationale-may-regatta-1
-END:VEVENT
-BEGIN:VEVENT
 UID:nationale-ruderregatta-schmerikon-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270510
 SUMMARY:Nationale Ruderregatta Schmerikon
@@ -334,7 +323,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-ruderregatta-schmerikon-1
 END:VEVENT
 BEGIN:VEVENT
 UID:internationale-junioren-regatta-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270510
 SUMMARY:Internationale Junioren-Regatta
@@ -345,8 +334,19 @@ DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Regatta Münche
 URL:https://www.swissrowing.ch/de/event/internationale-junioren-regatta-3
 END:VEVENT
 BEGIN:VEVENT
+UID:internationale-may-regatta-1@swissrowing-ics
+DTSTAMP:20261121T124431Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+SUMMARY:Internationale May Regatta
+LOCATION:Gent (BEL)
+DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
+ //www.swissrowing.ch/de/event/internationale-may-regatta-1
+URL:https://www.swissrowing.ch/de/event/internationale-may-regatta-1
+END:VEVENT
+BEGIN:VEVENT
 UID:filippi-beach-sprint-regatta-nr-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270517
 SUMMARY:Filippi Beach Sprint Regatta Nr. 3
@@ -357,7 +357,7 @@ URL:https://www.swissrowing.ch/de/event/filippi-beach-sprint-regatta-nr-3
 END:VEVENT
 BEGIN:VEVENT
 UID:junioren-europameisterschaften-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270517
 SUMMARY:Junioren-Europameisterschaften
@@ -368,7 +368,7 @@ URL:https://www.swissrowing.ch/de/event/junioren-europameisterschaften-7
 END:VEVENT
 BEGIN:VEVENT
 UID:internationale-wedau-regatta-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270517
 SUMMARY:Internationale Wedau-Regatta
@@ -379,7 +379,7 @@ URL:https://www.swissrowing.ch/de/event/internationale-wedau-regatta-1
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-ergometertest-coupe-de-la-jeunesse-4@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:SWISS ROWING Ergometertest (Coupe de la Jeunesse)
@@ -391,7 +391,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-ergometertest-coupe-de
 END:VEVENT
 BEGIN:VEVENT
 UID:nationale-regatta-cham-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270524
 SUMMARY:Nationale Regatta Cham
@@ -402,7 +402,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-regatta-cham-7
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-masters-camp-8@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270531
 SUMMARY:SWISS ROWING Masters Camp
@@ -413,7 +413,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-masters-camp-8
 END:VEVENT
 BEGIN:VEVENT
 UID:europameisterschaften-6@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270531
 SUMMARY:Europameisterschaften
@@ -423,20 +423,8 @@ DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
 URL:https://www.swissrowing.ch/de/event/europameisterschaften-6
 END:VEVENT
 BEGIN:VEVENT
-UID:selektionsrennen-cdj-kleinboote-swiss-rowing-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270605
-SUMMARY:Selektionsrennen (CdJ-Kleinboote SWISS ROWING)
-LOCATION:Sarnen
-DESCRIPTION:Kategorie: Tests\nVeranstalter: Website\nhttps://www.swissrowin
- g.ch/de/event/selektionsrennen-cdj-kleinboote-swiss-rowing-0
-URL:https://www.swissrowing.ch/de/event/selektionsrennen-cdj-kleinboote-swi
- ss-rowing-0
-END:VEVENT
-BEGIN:VEVENT
 UID:filippi-beach-sprint-trophy-final-stage@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
 SUMMARY:Filippi Beach Sprint Trophy (Final Stage)
@@ -447,8 +435,20 @@ URL:https://www.swissrowing.ch/de/event/filippi-beach-sprint-trophy-final-s
  tage
 END:VEVENT
 BEGIN:VEVENT
+UID:selektionsrennen-cdj-kleinboote-swiss-rowing-0@swissrowing-ics
+DTSTAMP:20261121T124431Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Selektionsrennen (CdJ-Kleinboote SWISS ROWING)
+LOCATION:Sarnen
+DESCRIPTION:Kategorie: Tests\nVeranstalter: Website\nhttps://www.swissrowin
+ g.ch/de/event/selektionsrennen-cdj-kleinboote-swiss-rowing-0
+URL:https://www.swissrowing.ch/de/event/selektionsrennen-cdj-kleinboote-swi
+ ss-rowing-0
+END:VEVENT
+BEGIN:VEVENT
 UID:nationale-regatta-sarnersee-4@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270607
 SUMMARY:Nationale Regatta Sarnersee
@@ -460,7 +460,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-regatta-sarnersee-4
 END:VEVENT
 BEGIN:VEVENT
 UID:internationale-ruderregatta-ratzeburg-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270607
 SUMMARY:Internationale Ruderregatta Ratzeburg
@@ -472,7 +472,7 @@ URL:https://www.swissrowing.ch/de/event/internationale-ruderregatta-ratzebu
 END:VEVENT
 BEGIN:VEVENT
 UID:internationale-ruderregatta-bled-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270614
 SUMMARY:Internationale Ruderregatta Bled
@@ -484,7 +484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:selektionstage-kader-u23-coupe-de-la-jeunesse-swiss-rowing@swissrowing-
  ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270614
 SUMMARY:Selektionstage (Kader U23 / Coupe de la Jeunesse SWISS ROWING)
@@ -496,7 +496,7 @@ URL:https://www.swissrowing.ch/de/event/selektionstage-kader-u23-coupe-de-l
 END:VEVENT
 BEGIN:VEVENT
 UID:european-games-beach-sprint@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270619
 SUMMARY:European Games Beach Sprint
@@ -506,19 +506,8 @@ DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
 URL:https://www.swissrowing.ch/de/event/european-games-beach-sprint
 END:VEVENT
 BEGIN:VEVENT
-UID:world-rowing-cup-i-4@swissrowing-ics
-DTSTAMP:20261119T131654Z
-DTSTART;VALUE=DATE:20270618
-DTEND;VALUE=DATE:20270621
-SUMMARY:World Rowing Cup I
-LOCATION:tbc
-DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
- //www.swissrowing.ch/de/event/world-rowing-cup-i-4
-URL:https://www.swissrowing.ch/de/event/world-rowing-cup-i-4
-END:VEVENT
-BEGIN:VEVENT
 UID:holland-beker-regatta-2@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 SUMMARY:Holland Beker Regatta
@@ -528,8 +517,19 @@ DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
 URL:https://www.swissrowing.ch/de/event/holland-beker-regatta-2
 END:VEVENT
 BEGIN:VEVENT
+UID:world-rowing-cup-i-4@swissrowing-ics
+DTSTAMP:20261121T124431Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+SUMMARY:World Rowing Cup I
+LOCATION:tbc
+DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
+ //www.swissrowing.ch/de/event/world-rowing-cup-i-4
+URL:https://www.swissrowing.ch/de/event/world-rowing-cup-i-4
+END:VEVENT
+BEGIN:VEVENT
 UID:nationale-regatta-greifensee-6@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270621
 SUMMARY:Nationale Regatta Greifensee
@@ -540,7 +540,7 @@ URL:https://www.swissrowing.ch/de/event/nationale-regatta-greifensee-6
 END:VEVENT
 BEGIN:VEVENT
 UID:euro-masters-regatta-4@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270628
 SUMMARY:Euro Masters Regatta
@@ -551,7 +551,7 @@ URL:https://www.swissrowing.ch/de/event/euro-masters-regatta-4
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-wanderfahrt-lac-leman@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270628
 SUMMARY:SWISS ROWING-Wanderfahrt (Lac Léman)
@@ -562,7 +562,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-wanderfahrt-lac-leman
 END:VEVENT
 BEGIN:VEVENT
 UID:henley-royal-regatta-6@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270705
 SUMMARY:Henley Royal Regatta
@@ -573,7 +573,7 @@ URL:https://www.swissrowing.ch/de/event/henley-royal-regatta-6
 END:VEVENT
 BEGIN:VEVENT
 UID:schweizer-meisterschaften-championnats-suisses-2@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:Schweizer Meisterschaften - Championnats Suisses
@@ -586,7 +586,7 @@ URL:https://www.swissrowing.ch/de/event/schweizer-meisterschaften-championn
 END:VEVENT
 BEGIN:VEVENT
 UID:world-rowing-cup-ii-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270712
 SUMMARY:World Rowing Cup II
@@ -596,19 +596,8 @@ DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
 URL:https://www.swissrowing.ch/de/event/world-rowing-cup-ii-1
 END:VEVENT
 BEGIN:VEVENT
-UID:u23-weltmeisterschaften-8@swissrowing-ics
-DTSTAMP:20261119T131654Z
-DTSTART;VALUE=DATE:20270727
-DTEND;VALUE=DATE:20270802
-SUMMARY:U23-Weltmeisterschaften
-LOCATION:Plovdiv (BUL)
-DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
- //www.swissrowing.ch/de/event/u23-weltmeisterschaften-8
-URL:https://www.swissrowing.ch/de/event/u23-weltmeisterschaften-8
-END:VEVENT
-BEGIN:VEVENT
 UID:junioren-weltmeisterschaften-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270802
 SUMMARY:Junioren-Weltmeisterschaften
@@ -618,8 +607,19 @@ DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
 URL:https://www.swissrowing.ch/de/event/junioren-weltmeisterschaften-7
 END:VEVENT
 BEGIN:VEVENT
+UID:u23-weltmeisterschaften-8@swissrowing-ics
+DTSTAMP:20261121T124431Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270802
+SUMMARY:U23-Weltmeisterschaften
+LOCATION:Plovdiv (BUL)
+DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
+ //www.swissrowing.ch/de/event/u23-weltmeisterschaften-8
+URL:https://www.swissrowing.ch/de/event/u23-weltmeisterschaften-8
+END:VEVENT
+BEGIN:VEVENT
 UID:fisu-world-university-championships-2@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270813
 SUMMARY:FISU World University Championships
@@ -631,7 +631,7 @@ URL:https://www.swissrowing.ch/de/event/fisu-world-university-championships
 END:VEVENT
 BEGIN:VEVENT
 UID:coupe-de-la-jeunesse-8@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270809
 SUMMARY:Coupe de la Jeunesse
@@ -642,7 +642,7 @@ URL:https://www.swissrowing.ch/de/event/coupe-de-la-jeunesse-8
 END:VEVENT
 BEGIN:VEVENT
 UID:weltmeisterschaften-5@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270823
 DTEND;VALUE=DATE:20270830
 SUMMARY:Weltmeisterschaften
@@ -653,7 +653,7 @@ URL:https://www.swissrowing.ch/de/event/weltmeisterschaften-5
 END:VEVENT
 BEGIN:VEVENT
 UID:swiss-rowing-bootstrimmung-5@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
 SUMMARY:SWISS ROWING-Bootstrimmung
@@ -663,8 +663,19 @@ DESCRIPTION:Kategorie: Ausbildung\nVeranstalter: SWISS ROWING\nhttps://www.
 URL:https://www.swissrowing.ch/de/event/swiss-rowing-bootstrimmung-5
 END:VEVENT
 BEGIN:VEVENT
+UID:u23-europameisterschaften-8@swissrowing-ics
+DTSTAMP:20261121T124431Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270906
+SUMMARY:U23-Europameisterschaften
+LOCATION:tbc
+DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
+ //www.swissrowing.ch/de/event/u23-europameisterschaften-8
+URL:https://www.swissrowing.ch/de/event/u23-europameisterschaften-8
+END:VEVENT
+BEGIN:VEVENT
 UID:bodensee-langstreckenfahrt-ruder-marathon-2@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:Bodensee Langstreckenfahrt (Ruder-Marathon)
@@ -675,19 +686,8 @@ URL:https://www.swissrowing.ch/de/event/bodensee-langstreckenfahrt-ruder-ma
  rathon-2
 END:VEVENT
 BEGIN:VEVENT
-UID:u23-europameisterschaften-8@swissrowing-ics
-DTSTAMP:20261119T131654Z
-DTSTART;VALUE=DATE:20270904
-DTEND;VALUE=DATE:20270906
-SUMMARY:U23-Europameisterschaften
-LOCATION:tbc
-DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
- //www.swissrowing.ch/de/event/u23-europameisterschaften-8
-URL:https://www.swissrowing.ch/de/event/u23-europameisterschaften-8
-END:VEVENT
-BEGIN:VEVENT
 UID:world-rowing-masters-regatta-5@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270913
 SUMMARY:World Rowing Masters Regatta
@@ -698,7 +698,7 @@ URL:https://www.swissrowing.ch/de/event/world-rowing-masters-regatta-5
 END:VEVENT
 BEGIN:VEVENT
 UID:regatta-schwarzsee-swiss-alpine-rowing-trophy-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270913
 SUMMARY:Regatta Schwarzsee (Swiss Alpine Rowing Trophy)
@@ -711,7 +711,7 @@ URL:https://www.swissrowing.ch/de/event/regatta-schwarzsee-swiss-alpine-row
 END:VEVENT
 BEGIN:VEVENT
 UID:bilac-8@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 SUMMARY:BILAC
@@ -722,7 +722,7 @@ URL:https://www.swissrowing.ch/de/event/bilac-8
 END:VEVENT
 BEGIN:VEVENT
 UID:european-rowing-coastal-beach-sprint-championships-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270927
 SUMMARY:European Rowing Coastal + Beach Sprint Championships
@@ -735,7 +735,7 @@ URL:https://www.swissrowing.ch/de/event/european-rowing-coastal-beach-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:tour-du-leman-2@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270927
 SUMMARY:Tour du Léman
@@ -745,20 +745,8 @@ DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
 URL:https://www.swissrowing.ch/de/event/tour-du-leman-2
 END:VEVENT
 BEGIN:VEVENT
-UID:achterrennen-grosser-preis-vom-sempachersee-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20270926
-SUMMARY:Achterrennen "Grosser Preis vom Sempachersee"
-LOCATION:Sursee
-DESCRIPTION:Kategorie: Regatta national\nVeranstalter: SC Sursee\nhttps://w
- ww.swissrowing.ch/de/event/achterrennen-grosser-preis-vom-sempachersee-7
-URL:https://www.swissrowing.ch/de/event/achterrennen-grosser-preis-vom-semp
- achersee-7
-END:VEVENT
-BEGIN:VEVENT
 UID:swiss-rowing-breitensporttagung-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:SWISS ROWING-Breitensporttagung
@@ -769,7 +757,7 @@ URL:https://www.swissrowing.ch/de/event/swiss-rowing-breitensporttagung-7
 END:VEVENT
 BEGIN:VEVENT
 UID:world-rowing-shanghai-sprints-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270927
 SUMMARY:World Rowing Shanghai Sprints
@@ -779,8 +767,20 @@ DESCRIPTION:Kategorie: Regatta international\nVeranstalter: Website\nhttps:
 URL:https://www.swissrowing.ch/de/event/world-rowing-shanghai-sprints-0
 END:VEVENT
 BEGIN:VEVENT
+UID:achterrennen-grosser-preis-vom-sempachersee-7@swissrowing-ics
+DTSTAMP:20261121T124431Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Achterrennen "Grosser Preis vom Sempachersee"
+LOCATION:Sursee
+DESCRIPTION:Kategorie: Regatta national\nVeranstalter: SC Sursee\nhttps://w
+ ww.swissrowing.ch/de/event/achterrennen-grosser-preis-vom-sempachersee-7
+URL:https://www.swissrowing.ch/de/event/achterrennen-grosser-preis-vom-semp
+ achersee-7
+END:VEVENT
+BEGIN:VEVENT
 UID:ruderregatta-sursee-kurzstrecke-6@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
 SUMMARY:Ruderregatta Sursee (Kurzstrecke)
@@ -791,7 +791,7 @@ URL:https://www.swissrowing.ch/de/event/ruderregatta-sursee-kurzstrecke-6
 END:VEVENT
 BEGIN:VEVENT
 UID:regate-leman-sur-mer-2@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271003
 SUMMARY:Régate "Léman-sur-mer"
@@ -802,7 +802,7 @@ URL:https://www.swissrowing.ch/de/event/regate-leman-sur-mer-2
 END:VEVENT
 BEGIN:VEVENT
 UID:world-rowing-beach-sprint-finals-4@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271011
 SUMMARY:World Rowing Beach Sprint Finals
@@ -813,7 +813,7 @@ URL:https://www.swissrowing.ch/de/event/world-rowing-beach-sprint-finals-4
 END:VEVENT
 BEGIN:VEVENT
 UID:championnats-romands-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 SUMMARY:Championnats romands
@@ -824,7 +824,7 @@ URL:https://www.swissrowing.ch/de/event/championnats-romands-0
 END:VEVENT
 BEGIN:VEVENT
 UID:roesticup-achterrennen-7@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271010
 DTEND;VALUE=DATE:20271011
 SUMMARY:Rösticup (Achterrennen)
@@ -835,7 +835,7 @@ URL:https://www.swissrowing.ch/de/event/roesticup-achterrennen-7
 END:VEVENT
 BEGIN:VEVENT
 UID:world-rowing-coastal-championships-4@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271016
 SUMMARY:World Rowing Coastal Championships
@@ -847,7 +847,7 @@ URL:https://www.swissrowing.ch/de/event/world-rowing-coastal-championships-
 END:VEVENT
 BEGIN:VEVENT
 UID:bern-boat-race-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271024
 SUMMARY:Bern Boat Race
@@ -858,7 +858,7 @@ URL:https://www.swissrowing.ch/de/event/bern-boat-race-3
 END:VEVENT
 BEGIN:VEVENT
 UID:piste-test-days-2026-ticino-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
 SUMMARY:PISTE Test-Days 2026 (Ticino)
@@ -869,7 +869,7 @@ URL:https://www.swissrowing.ch/de/event/piste-test-days-2026-ticino-0
 END:VEVENT
 BEGIN:VEVENT
 UID:solothurner-achterrennen-3@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271030
 DTEND;VALUE=DATE:20271031
 SUMMARY:Solothurner Achterrennen
@@ -880,7 +880,7 @@ URL:https://www.swissrowing.ch/de/event/solothurner-achterrennen-3
 END:VEVENT
 BEGIN:VEVENT
 UID:piste-test-days-2026-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271106
 DTEND;VALUE=DATE:20271108
 SUMMARY:PISTE Test-Days 2026
@@ -891,7 +891,7 @@ URL:https://www.swissrowing.ch/de/event/piste-test-days-2026-0
 END:VEVENT
 BEGIN:VEVENT
 UID:piste-test-day-2026-romandie-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271110
 DTEND;VALUE=DATE:20271111
 SUMMARY:PISTE Test-Day 2026 (Romandie)
@@ -902,7 +902,7 @@ URL:https://www.swissrowing.ch/de/event/piste-test-day-2026-romandie-0
 END:VEVENT
 BEGIN:VEVENT
 UID:baselhead-regatta-0@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271113
 DTEND;VALUE=DATE:20271114
 SUMMARY:BaselHead Regatta
@@ -914,7 +914,7 @@ URL:https://www.swissrowing.ch/de/event/baselhead-regatta-0
 END:VEVENT
 BEGIN:VEVENT
 UID:verleihung-aequatorband-der-dv-1@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271204
 DTEND;VALUE=DATE:20271205
 SUMMARY:Verleihung Äquatorband (an der DV)
@@ -925,7 +925,7 @@ URL:https://www.swissrowing.ch/de/event/verleihung-aequatorband-der-dv-1
 END:VEVENT
 BEGIN:VEVENT
 UID:delegiertenversammlung-swiss-rowing-4@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271204
 DTEND;VALUE=DATE:20271205
 SUMMARY:Delegiertenversammlung SWISS ROWING
@@ -937,7 +937,7 @@ URL:https://www.swissrowing.ch/de/event/delegiertenversammlung-swiss-rowing
 END:VEVENT
 BEGIN:VEVENT
 UID:achterrennen-langstreckech-8@swissrowing-ics
-DTSTAMP:20261119T131654Z
+DTSTAMP:20261121T124431Z
 DTSTART;VALUE=DATE:20271211
 DTEND;VALUE=DATE:20271212
 SUMMARY:Achterrennen langstrecke.ch
